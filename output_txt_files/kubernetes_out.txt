@@ -1,1 +1,7 @@
-<paste log output from Kubernetes-mediated prediction, here>
+(.devops) voclabs:~/environment/project-ml-microservice-kubernetes (master) $ ./run_kubernetes.sh 
+Error from server (AlreadyExists): pods "app" already exists
+NAME   READY   STATUS    RESTARTS      AGE
+app    1/1     Running   1 (14m ago)   67m
+Forwarding from 127.0.0.1:8000 -> 8000
+Forwarding from [::1]:8000 -> 8000
+Handling connection for 8000
